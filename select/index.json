@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "木漏れ日のエール (TV Size) [12話Ver.]",
+  "base_artist": "トウカイテイオー (CV. Machico)、メジロマックイーン (CV. 大西沙織)",
+  "createdAt": "2026-03-17T09:38:26.276929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "木漏れ日のエール",
+      "artist": "トウカイテイオー (CV. Machico)",
+      "has_synced": true,
+      "path": "select/01_木漏れ日のエール_トウカイテイオー_(CV._Machico).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "木漏れ日のエール",
+      "artist": "トウカイテイオー (CV.Machico)、メジロマックイーン (CV.大西沙織)",
+      "has_synced": true,
+      "path": "select/02_木漏れ日のエール_トウカイテイオー_(CV.Machico)、メジロマックイーン_(CV.大西沙織).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "木漏れ日のエール",
+      "artist": "トウカイテイオー (Machico) & メジロマックイーン (大西沙織)",
+      "has_synced": true,
+      "path": "select/03_木漏れ日のエール_トウカイテイオー_(Machico)_&_メジロマックイーン_(大西沙織).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "木漏れ日のエール",
+      "artist": "トウカイテイオー",
+      "has_synced": true,
+      "path": "select/04_木漏れ日のエール_トウカイテイオー.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "木漏れ日のエール",
+      "artist": "トウカイテイオー(CV.Machico)",
+      "has_synced": true,
+      "path": "select/05_木漏れ日のエール_トウカイテイオー(CV.Machico).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "木漏れ日のエール",
+      "artist": "トウカイテイオー (CV. Machico)、メジロマックイーン (CV. 大西沙織)",
+      "has_synced": true,
+      "path": "select/06_木漏れ日のエール_トウカイテイオー_(CV._Machico)、メジロマックイーン_(CV._大西沙織).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "木漏れ日のエール",
+      "artist": "トウカイテイオー (CV. Machico), メジロマックイーン (CV. 大西沙織)",
+      "has_synced": true,
+      "path": "select/07_木漏れ日のエール_トウカイテイオー_(CV._Machico),_メジロマックイーン_(CV._大西沙織).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "木漏れ日のエール",
+      "artist": "トウカイテイオー (CV. Machico), メジロマックイーン (CV. 大西沙織)",
+      "has_synced": false,
+      "path": "select/pl_01_木漏れ日のエール_トウカイテイオー_(CV._Machico),_メジロマックイーン_(CV._大西沙織).txt"
+    }
+  ]
+}
